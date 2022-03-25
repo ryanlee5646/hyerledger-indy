@@ -27,5 +27,5 @@
 
 3. 최종적으로 인증기관(Verifier)이 블록체인에서 발행자(Issuer)와 사용자(User)의 Key를 가져와서 사용자가 제출한 VP가 유효한 인증서인지를 판별한다.
 
-<img src="image/Blockchain.png" mwidth="300">
+<img src="image/Blockchain.png" width="600">
 
