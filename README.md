@@ -22,8 +22,10 @@
 - VP(Verifiable Presentation, 제출용ID)
 
 1. 권한이 있는 발행자(Issuer)가 사용자(User)에게 증명서를 발급해 주고 블록체인에서 자신(Issuer)의 Key를 가져와서 사인한다.
+
 2. 받은 증명서에서 특정 데이터만 추려서 블록체인에 있는 자신(User)의 Key를 가져와서 서명을 한다.
+
 3. 최종적으로 인증기관(Verifier)이 블록체인에서 발행자(Issuer)와 사용자(User)의 Key를 가져와서 사용자가 제출한 VP가 유효한 인증서인지를 판별한다.
 
-<img src="./image/Blockchain.png"  style: width:"400px" height="200px" />
+<img src="image/Blockchain.png" mwidth="300">
 
