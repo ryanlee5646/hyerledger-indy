@@ -1,6 +1,4 @@
-Hyperledger Indy & Hyperledger Aries
-
-
+# Hyperledger Indy & Aries
 
 ## DID 개요
 
