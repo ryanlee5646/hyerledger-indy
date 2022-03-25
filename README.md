@@ -2,7 +2,7 @@
 
 ## DID 개요
 
-###SSI(Self-Sovereign Identity, 자기주권 신원증명)
+### SSI(Self-Sovereign Identity, 자기주권 신원증명)
 
 1. 신원 증명의 권한은 자신한테 있다
 
